@@ -4,4 +4,4 @@
 
 PH 
 </br>
-MIT Manipal
+MIT
